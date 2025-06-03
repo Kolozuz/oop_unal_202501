@@ -4,3 +4,6 @@
 [submodule "Activity3"]
 	path = Activity3
 	url = https://github.com/Kolozuz/oop_unal_202501_act3.git
+[submodule "Activity4"]
+	path = Activity4
+	url = https://github.com/Kolozuz/oop_unal_202501_act4.git
