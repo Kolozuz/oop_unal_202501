@@ -7,5 +7,5 @@ Repositorio para el desarrollo de las actividades del curso de Programación Ori
 ### Actividad 1
 - Oviedo Regino, Efrain M. (2004). *Lógica de programación.* Ecoe.
 
-### Actividades 2, 3 y 4
+### Actividades 2, 3, 4 y 5
 - Bermón Angarita, L. (2021). *Ejercicios de programación orientada a objetos con Java y UML.* Editorial Universidad Nacional de Colombia.
