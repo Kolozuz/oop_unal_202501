@@ -10,3 +10,6 @@
 [submodule "Activity5"]
 	path = Activity5
 	url = https://github.com/Kolozuz/oop_unal_202501_act5
+[submodule "Activity6"]
+	path = Activity6
+	url = https://github.com/Kolozuz/oop_unal_202501_act6
